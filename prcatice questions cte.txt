@@ -1,0 +1,24 @@
+
+-- maven movies dataset
+
+solve using Comman Table Expression
+
+1. calculate Average Rating of Movies by Genre
+
+2. find Top 5 Actors by Number of Movies
+
+3. Directors with Movies Having Above Average Ratings
+
+4. Genre Trends Over Years
+
+5. List All Movies Released After 2010
+
+6. Find the Average Rating for a Specific Movie
+
+7. Count the Number of Movies in Each Genre
+
+8. List Actors with More Than 10 Movies
+
+9. Identify Top 3 Most Rated Movies
+
+10. Highest Rated Movie Per Director
